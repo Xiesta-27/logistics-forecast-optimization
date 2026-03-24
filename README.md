@@ -1,4 +1,8 @@
 # 基于约束分段预测模型的货量运输优化调度
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.9](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-2.1.0-green.svg)](https://pandas.pydata.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3.0-orange.svg)](https://scikit-learn.org/)
 
 ## 🏆 项目成果
 - 竞赛奖项：2025年 MathorCup 数学建模竞赛 赛区二等奖
