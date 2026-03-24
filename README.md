@@ -4,6 +4,9 @@
 [![Pandas](https://img.shields.io/badge/Pandas-2.1.0-green.svg)](https://pandas.pydata.org/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3.0-orange.svg)](https://scikit-learn.org/)
 
+## 技术栈
+Pandas / NumPy / Scikit-learn / Matplotlib / LSTM
+
 ## 🏆 项目成果
 - 竞赛奖项：2025年 MathorCup 数学建模竞赛 赛区二等奖
 - 核心成果：针对物流短途运输的货量预测与车辆调度问题，搭建了「时序预测-多目标优化-动态调度-鲁棒性验证」全流程模型，实现预测模型RMSE从99.70降至34.21，15%预测误差下运输成本超支降低13%，自有车辆周转率提升至85%。
